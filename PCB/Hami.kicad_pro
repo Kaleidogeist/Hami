@@ -628,7 +628,7 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         }
       ],
       "filter_string": "",
@@ -679,7 +679,7 @@
         "uuid": "ad16a872-4174-4a3a-9d6e-0b91db9cfc4d"
       }
     ],
-    "used_designators": "H1-4,SW1-4",
+    "used_designators": "H1-4,SW1-4,J1-5",
     "variants": []
   },
   "sheets": [
