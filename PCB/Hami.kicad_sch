@@ -6,7 +6,7 @@
 	(paper "A5")
 	(title_block
 		(title "Hami Rotary Encoder Module")
-		(date "2026-10-26")
+		(date "2026-10-27")
 		(rev "V0.1")
 		(company "By Kaleidogeist (https://github.com/Kaleidogeist/Hami/)")
 		(comment 1 "Licensed under CERN-OHL-S-2.0")
@@ -1051,7 +1051,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3137-1-00-15-00-00-08-0"
+		(property "Value" "4751-0-00-15-00-00-03-0"
 			(at 66.04 20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1062,7 +1062,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Kaleidogeist-PinHeader:PinPCB_D0.76mm_L5.59mm_MillMax_3137"
+		(property "Footprint" "Kaleidogeist-PinHeader:PinNailHead_D0.64mm_L5.03mm_MillMax_4751"
 			(at 60.96 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -1130,7 +1130,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3137-1-00-15-00-00-08-0"
+		(property "Value" "4751-0-00-15-00-00-03-0"
 			(at 66.04 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1141,7 +1141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Kaleidogeist-PinHeader:PinPCB_D0.76mm_L5.59mm_MillMax_3137"
+		(property "Footprint" "Kaleidogeist-PinHeader:PinNailHead_D0.64mm_L5.03mm_MillMax_4751"
 			(at 60.96 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -1209,7 +1209,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3137-1-00-15-00-00-08-0"
+		(property "Value" "4751-0-00-15-00-00-03-0"
 			(at 66.04 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1220,7 +1220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Kaleidogeist-PinHeader:PinPCB_D0.76mm_L5.59mm_MillMax_3137"
+		(property "Footprint" "Kaleidogeist-PinHeader:PinNailHead_D0.64mm_L5.03mm_MillMax_4751"
 			(at 60.96 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -1387,7 +1387,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3137-1-00-15-00-00-08-0"
+		(property "Value" "4751-0-00-15-00-00-03-0"
 			(at 66.04 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1398,7 +1398,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Kaleidogeist-PinHeader:PinPCB_D0.76mm_L5.59mm_MillMax_3137"
+		(property "Footprint" "Kaleidogeist-PinHeader:PinNailHead_D0.64mm_L5.03mm_MillMax_4751"
 			(at 60.96 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -1553,7 +1553,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3137-1-00-15-00-00-08-0"
+		(property "Value" "4751-0-00-15-00-00-03-0"
 			(at 66.04 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1564,7 +1564,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Kaleidogeist-PinHeader:PinPCB_D0.76mm_L5.59mm_MillMax_3137"
+		(property "Footprint" "Kaleidogeist-PinHeader:PinNailHead_D0.64mm_L5.03mm_MillMax_4751"
 			(at 60.96 22.86 0)
 			(hide yes)
 			(show_name no)
